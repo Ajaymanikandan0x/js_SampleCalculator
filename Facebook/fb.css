@@ -1,0 +1,132 @@
+.main_d {
+
+    width: 100%;
+    height: 700px;
+    background: #f0f2f5;
+
+}
+.login_l{
+    height: 300px;
+  width: 100%;
+  margin: 50px;  
+  float: left;
+}
+
+body {
+    margin: 0;
+}
+
+.fist_h {
+    width: 50%;
+     height: 500px;
+   /* background-color: blueviolet; */
+    float: left;
+    
+}
+.fb_log{
+    padding-left: 155px;
+    padding-top: 115px;
+   
+}
+
+
+
+.fb_image {
+    height: 106px;
+    margin: 0;
+
+}
+
+.main_font {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin: 0;
+    padding-left: 28px;
+}
+.second_h {
+    width: 50%;
+    height: 500px;
+   float: left;
+    /* background-color: rgb(22, 84, 218); */
+    
+}
+
+.login_con{
+    width: 400px;
+    height: 330px;
+   background-color:white;
+  
+   margin-left: 30px;
+    margin-top: 60px;
+  border-radius: 10px;
+  border-width: 20px;
+  padding-top: 25px;
+  padding-left: 20px;
+}
+.space{
+    height: 13px;
+}
+.logcolor{
+    background-color:#1877f2;
+    color: white;
+    text-decoration: solid;
+    font-size: 25px;
+    
+    text-align:center;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+.newacc{
+
+    background-color:#2fb931;
+    color: white;
+    text-decoration: solid;
+    font-size: 15px;
+    font-weight: bold;
+    text-align:center;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+.newaccb{
+    padding-left: 58px;
+    padding-top: 20px;
+}
+.forgotten{
+    padding-left: 105px;
+    padding-top: 11px;
+}
+.forlink{
+
+    color:  #1877f2;
+    text-decoration: solid;
+    font-size: 18px;
+    
+    text-align:center;
+}
+.inputfeeld{
+   
+    border-color: grey;
+    border: outset;
+    padding-left: 10px
+   
+
+}
+.fanpage{
+    padding-left: 61px;
+    padding-top: 36px;
+}
+.page{
+    font-size: 18px;
+    color:black ;
+    text-decoration: none;
+}
+::-webkit-input-placeholder {
+    font: 20px;
+}
