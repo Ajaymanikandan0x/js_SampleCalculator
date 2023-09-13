@@ -3,6 +3,7 @@ function buttonPres(data)
   
     document.getElementById("inputScreen1").value+=data
 
+
 }
 function clearData() 
 {
@@ -13,7 +14,7 @@ function clearData()
 function equalButton() {
     var text=document.getElementById("inputScreen1").value
     var result =eval(text)
-    document.getElementById("inputScreen1").value=result
-    
-    
+
+    document.getElementById("inputScreen1").value=result  
+
 }
